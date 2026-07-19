@@ -1,4 +1,4 @@
-### Demo: [https://github.com/develop-juice/drag-and-drop](https://develop-juice.github.io/drag-and-drop/)
+### Demo: [https://lobanov3000.github.io/drag-and-drop/](https://lobanov3000.github.io/drag-and-drop/)
 
 Adaptive Sortable component drag and drop from scratch. Redux, TypeScript, React, Emotion(css in js) and Webpack
 
